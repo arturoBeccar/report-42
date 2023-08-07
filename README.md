@@ -35,4 +35,4 @@ The results will be verified by our team of experts. The bounty will be awarded 
 
 Submit your report and the necessary files by creating a pull request in this repo. 
 
-Feel free to contact me via [preferred contact method] if you have any questions or want to join a team already working on this. Good luck!
+Feel free to contact me via @turi_dreams if you have any questions or want to join a team already working on this. Good luck!
