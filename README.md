@@ -8,7 +8,7 @@
 
 ## Objective
 
-The objective of this report is to determine whether there currently exists, has ever existed, or will exist a geographical area on Earth where the environmental revenue from selling carbon and biodiversity credits associated with that area exceeds the cost of establishing a basic internet connection in that area.
+The objective of this report is to determine whether there currently exists, has ever existed, or will exist a geographical area on Earth where the environmental revenue from selling carbon and biodiversity credits generated from that area exceeds the cost of establishing a basic internet connection for cellphones there.
 
 ## Bounty Program for Report: Play to Learn
 
