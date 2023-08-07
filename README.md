@@ -1,5 +1,13 @@
 # report-42
 
+![https://img.shields.io/badge/license-MIT-green](https://img.shields.io/badge/license-MIT-green)
+
+<p align="center">
+  <img src="/un_barco_donde_entramos_todos.png" alt="Un barco donde entramos todos." width="300" center  />
+</p>
+
+## Play to Learn
+
 We are offering a bounty for the submission of a comprehensive report that aligns with the following objective:
 
 "The objective of this report is to determine whether there currently exists, there ever existed or will exist a geographical area on earth where the environmental revenue from selling carbon and biodiversity credits associated with that area exceeds the cost of establishing a basic internet connection in that area."
